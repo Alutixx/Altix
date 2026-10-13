@@ -1,2 +1,2 @@
 # Altix
-Python Project
+Upcoming Python Project i'm currently working on.
